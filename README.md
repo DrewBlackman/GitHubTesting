@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 I've been added in GitHub
 
 and yet another addition in GitHub
+
+and now a line added in a local branch to be pushed to GitHub
